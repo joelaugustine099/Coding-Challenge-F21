@@ -1,7 +1,7 @@
 import json
 import requests
 import time
-
+#This program does text analysis
 url = "https://api.symbl.ai/v1/process/text"
 
 f = open("input.txt", "r")
